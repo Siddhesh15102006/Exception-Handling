@@ -28,9 +28,9 @@ int main(void) {
 }
 
 Output :-
-Enter the 1st Number :- 10
-Enter the 2nd Number :- 20
-0.5
+Enter the 1st Number :- 2
+Enter the 2nd Number :- 0
+ERROR: Division by 0
 
 
 === Code Execution Successful ===
